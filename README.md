@@ -1,6 +1,10 @@
 # LP3A5
 
 <!DOCTYPE html>
+
+## 🗃️ Repositório
+
+Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Liguagem de Programação 3 , do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +13,7 @@
     
 </head>
 <body>
-    <h1>Atividades</h1>
+    💻<h1>Atividades</h1>
     <h3>Produtor-consumidor</h3>
     <p><a href="https://github.com/igorujiie/LP3A5/tree/master/ProdutorConsumidor">Produtor-consumidor versao 1</a></p>
     <h3>Produtor-consumidor versao 2</h3>
@@ -23,3 +27,4 @@
     
 </body>
 </html>
+
